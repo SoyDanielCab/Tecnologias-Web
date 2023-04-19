@@ -1,0 +1,15 @@
+{
+    "Titulo":"El Principito",
+    "Autor":"Antoine de Saint-Exupéry",
+    "Edición":1943,
+    "Editorial":"Salamandra",
+    "Idioma original":"Frances",
+    "Resumen":"Novela corta sobre un principe de otro planeta que viaja por el universo y aprende sobre la amistad, el amor y la importancia de cuidar las cosas pequeñas",
+    "Colores":["Rojo", "Azul", "Morado", "Verde"],
+    "Alumnos":{
+        "Alumno1":"Yoltic",
+        "Alumno2":"Jesus",
+        "Alumno3":"Lupita",
+        "Alumno4":"Daniel"
+    }
+}
